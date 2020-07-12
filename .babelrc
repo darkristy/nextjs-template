@@ -8,7 +8,6 @@
         "displayName": true,
         "preprocess": false
       }
-    ],
-    "import-glob-array"
+    ]
   ]
 }
